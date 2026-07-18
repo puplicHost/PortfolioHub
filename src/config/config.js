@@ -1,10 +1,13 @@
+import logoUrl from '../assets/images/logo.png'
+import heroBgUrl from '../assets/images/heroBackground.png'
+
 export const siteConfig = {
   name: 'PortfolioHub',
   description: 'Modern web projects. Clean design. Real results.',
   whatsappNumber: '201223789179',
   email: 'dodahassan0045@gmail.com',
-  logoUrl: '/src/assets/images/logo.png',
-  heroBgUrl: '/src/assets/images/heroBackground.png',
+  logoUrl,
+  heroBgUrl,
 }
 
 export const socialLinks = [
